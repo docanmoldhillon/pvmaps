@@ -1,7 +1,7 @@
 # pvmaps
-Psychovipers Custom Mappack for Call of Duty 1.1
+**Psychovipers Custom Mappack for Call of Duty 1.1**
 
-Step to install-
+**Step to install-**
 
 1- Go to Call Of Duty/main and delete the old xanax v.3.0 mappack/psychovipersv 4.0 mappack/psychovipersv 5.0/psychovipersv 5.5 mappack or any other mappack before installing this one.
 
@@ -9,7 +9,8 @@ Step to install-
 
 3- Copy and paste all extracted files in your call of duty 1.1 main folder (Call Of Duty/main).
 
-Version History--
+**Version History--**
+
 Nov 21, 2017 -- v.1.0- Added Many New maps including Wy6 and Think custom maps with Harbor(extreme) with bug and graphic fixes. -Total 64 maps!
 
 May 26, 2020 -- v.2.0- Added Brecourt(Winter) and Dawnville(Winter) with bug fixes and enhancements. -Total 66 maps!
@@ -30,6 +31,6 @@ June 09, 2022 -- v.5.5- Added -- new maps and new patches. Removed bugged maps.
 
 June 15, 2022 -- v.5.5(extended)- 25+ new maps added.
 
-April 25, 2023 -- v.6.0- Added 124 new maps.
+**April 25, 2023** -- v.6.0- Added 124 new maps.
 
-Disclaimer: Please note that I do not claim ownership of any of the maps included in the maplist. The maps included in the map pack are the property of their respective owners and creators. I have simply compiled the map pack for convenience purposes. I am not responsible for any errors, omissions, or inaccuracies in the pack. Any issues or disputes regarding the maps should be directed towards their rightful owners. Therefore, I cannot be held responsible for any legal or ethical issues that may arise from the use or distribution of the maps in the maplist.
+_Disclaimer: Please note that I do not claim ownership of any of the maps included in the maplist. The maps included in the map pack are the property of their respective owners and creators. I have simply compiled the map pack for convenience purposes. I am not responsible for any errors, omissions, or inaccuracies in the pack. Any issues or disputes regarding the maps should be directed towards their rightful owners. Therefore, I cannot be held responsible for any legal or ethical issues that may arise from the use or distribution of the maps in the maplist._
